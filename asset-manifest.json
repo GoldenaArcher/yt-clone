@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GoldenaArcher/yt-clone/static/css/main.724fa46e.css",
+    "main.js": "/GoldenaArcher/yt-clone/static/js/main.3d5393e1.js",
+    "index.html": "/GoldenaArcher/yt-clone/index.html",
+    "main.724fa46e.css.map": "/GoldenaArcher/yt-clone/static/css/main.724fa46e.css.map",
+    "main.3d5393e1.js.map": "/GoldenaArcher/yt-clone/static/js/main.3d5393e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724fa46e.css",
+    "static/js/main.3d5393e1.js"
+  ]
+}
